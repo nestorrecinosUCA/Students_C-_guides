@@ -1,0 +1,21 @@
+Pregunta 1.
+1.1 Un puntero aquel que guarda la dirección de memoria de una variable.
+1.2 La dirección de memoria es, precisamente el espacio de memoria en el cual
+    está ubicada una variable.
+
+Pregunta 3.
+1-Se crea una funcion void con tres parámetros, todos numéricos, estos son:
+  un puntero, variable de filas y variable de columnas.
+2-El FOR que se encuentra en esta línea es inicializado en 0, con la variable
+  'i' y finaliza un numero antes de total de filas, definido en la variable ROWS.
+3-En el FOR de esta línea, se inicializa en 0, con la variable 'j' y finaliza
+  un número antes del definido en la variable COLS.
+4-Se imprime la posición de cada elemento de la matriz, por ejemlo, la posición
+  [0][1].
+5-Se imprime a través de un puntero, la dirección que resulte de la suma de p,
+  la variable i multiplicada por COLS (en este caso el asterisco no muestra un puntero)
+  y sumando al final j, aplicando un salto de linea.
+6-se cierra el segundo for.
+7-se cierra el primer for.
+8-se cierra la función void.
+
